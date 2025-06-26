@@ -1,9 +1,9 @@
 [project]
-name = "7a52d9f9-59b0-43bd-96fc-8d475220f56f-python"
+name = "alibabacloud-ddns-demo"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.9.6"
+requires-python = ">=3.11"
 dependencies = [
     "alibabacloud-alidns20150109>=3.5.8",
     "alibabacloud-credentials>=1.0.2",
@@ -14,3 +14,4 @@ dependencies = [
     "dotenv>=0.9.9",
     "ipykernel>=6.29.5",
 ]
+
