@@ -1,0 +1,16 @@
+[project]
+name = "7a52d9f9-59b0-43bd-96fc-8d475220f56f-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9.6"
+dependencies = [
+    "alibabacloud-alidns20150109>=3.5.8",
+    "alibabacloud-credentials>=1.0.2",
+    "alibabacloud-darabonba-env>=0.0.1",
+    "alibabacloud-tea-console>=0.0.1",
+    "alibabacloud-tea-openapi>=0.3.15",
+    "alibabacloud-tea-util>=0.3.13",
+    "dotenv>=0.9.9",
+    "ipykernel>=6.29.5",
+]
